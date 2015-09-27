@@ -1,2 +1,2 @@
 # ExDataProj2
-Project 2 of Exploratory Data Analysis Site
+Thanks for visiting. I couldn't upload the PNG files via coursera, hence I opted to just upload here. I also uploaded my master R code that creates all of the PNG files. Thanks! 
